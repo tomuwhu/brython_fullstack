@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+table {
+    margin: auto;
+    border-spacing: 7px;
+}
+td {
+    background-color: beige;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px inset black;
+}

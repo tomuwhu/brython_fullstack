@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "typicode",
+      "title": "json-server",
+      "content": "Cica"
+    },
+    {
+      "id": 2,
+      "author": "drtamas",
+      "title": "using json-server as backend node api like express",
+      "content": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)<br>Created with <3 for front-end developers who need a quick back-end for prototyping and mocking."
+    }
+  ]
+}
